@@ -1,0 +1,2 @@
+# qmag
+Repozytorium zasobów QGIS
